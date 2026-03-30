@@ -1,4 +1,4 @@
-# SmartBot 🤖
+# SmartBot 
 
 A context-aware Python chatbot with both a command-line interface and a Tkinter GUI. Built using NLP techniques for fuzzy intent matching, SmartBot understands natural language variations and responds to a range of conversational and informational queries.
 
